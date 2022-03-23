@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1628123224 source:c:\users\matias\desktop\juego matrix\juego\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1625265378 c:\users\matias\desktop\juego matrix\juego\funciones.h
+
+1628123310 c:\users\matias\desktop\juego matrix\juego\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1628123574 source:c:\users\matias\desktop\juego matrix\juego\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1628123224 source:c:\users\matias\desktop\tp laboratorio\juego matrix\juego\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1628134091 c:\users\matias\desktop\tp laboratorio\juego matrix\juego\funciones.h
+
+1628123310 c:\users\matias\desktop\tp laboratorio\juego matrix\juego\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1628123574 source:c:\users\matias\desktop\tp laboratorio\juego matrix\juego\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1628123224 source:c:\users\matias\desktop\tp laboratorio\labo 1\juego matrix\juego\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1628134091 c:\users\matias\desktop\tp laboratorio\labo 1\juego matrix\juego\funciones.h
+
+1628123310 c:\users\matias\desktop\tp laboratorio\labo 1\juego matrix\juego\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1628123574 source:c:\users\matias\desktop\tp laboratorio\labo 1\juego matrix\juego\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1628123224 source:d:\matias\universidad\2021\laboratorio 1\codigo\juego matrix\juego\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
+1628134091 d:\matias\universidad\2021\laboratorio 1\codigo\juego matrix\juego\funciones.h
+
+1628123310 d:\matias\universidad\2021\laboratorio 1\codigo\juego matrix\juego\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1628123574 source:d:\matias\universidad\2021\laboratorio 1\codigo\juego matrix\juego\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"funciones.h"
+	"rlutil.h"
+
